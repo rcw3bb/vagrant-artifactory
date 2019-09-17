@@ -3,10 +3,15 @@
 - vagrant
 - virtualbox
 
-### Run in Command Prompt
+### To start, execute the following batch
 
 ```
-vagrant up
+start.bat
+```
+### To stop, execute the following batch
+
+```
+stop.bat
 ```
 
 ### Accessing Artifactory
